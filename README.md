@@ -1,4 +1,4 @@
-#Task Manager made in angular
+# Task Manager made in angular
 
 This is a website made to learn angular
 
